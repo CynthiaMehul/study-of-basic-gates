@@ -69,7 +69,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: Cynthia Mehul
  RegisterNumber: 212223240020
 
-```module logic_gates(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
+```
+module logic_gates(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
 output andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate;
 and(andgate,a,b);
