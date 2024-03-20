@@ -79,7 +79,8 @@ nand(nandgate,a,b);
 nor(norgate,a,b);
 xor(xorgate,a,b);
 xnor(xnorgate,a,b);
-endmodule```
+endmodule
+```
  
 **Logic symbol & Truthtable**
 
