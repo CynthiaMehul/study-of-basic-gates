@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Study-of-basic-gates
 
 **AIM:** 
 
@@ -83,14 +83,14 @@ xnor(xnorgate,a,b);
 endmodule
 ```
  
-**Logic symbol & Truthtable**
+**Logic symbol & Truthtable:**
+![logic gates](https://github.com/CynthiaMehul/study-of-basic-gates/assets/150319444/002d263d-4714-49ee-80f9-5914488712a7)
 
-**RTL realization Output:** 
+**RTL Schematic:** 
 ![exp1 output2](https://github.com/CynthiaMehul/study-of-basic-gates/assets/150319444/2f163cad-570e-434b-af78-027e1c05f444)
 
-**RTL**
+**Waveform:**
 ![exp1 output1](https://github.com/CynthiaMehul/study-of-basic-gates/assets/150319444/361e9c6c-7c83-4a96-8eb3-a1163b3cf051)
-
 
 **Result:**
 Hence, the truth table of logic gates is studied and verified in Quartus II using Verilog programming.
