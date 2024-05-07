@@ -84,6 +84,7 @@ endmodule
 ```
  
 **Logic symbol & Truthtable:**
+
 ![logic gates](https://github.com/CynthiaMehul/study-of-basic-gates/assets/150319444/002d263d-4714-49ee-80f9-5914488712a7)
 
 **RTL Schematic:** 
